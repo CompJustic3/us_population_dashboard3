@@ -67,7 +67,7 @@ st.markdown("""
 
 #######################
 # Load data
-df_reshaped = pd.read_csv(r'C:\Users\DSU\Downloads\us_population_dashboard\us-population-2010-2019-reshaped.csv')
+df_reshaped = pd.read_csv('data/us-population-2010-2019-reshaped.csv')
 
 
 #######################
